@@ -1,0 +1,14 @@
+Pesquisa sobre ferramentas:
+
+1- vsode: é um editor de texto (pode ser utilizado para escrever códigos)
+https://code.visualstudio.com/
+
+2- python: Linguagem utilizada em sistemas, é eficiente para programação (uma linguagem de programação)
+https://www.python.org/
+
+3- Git: É um version control system "VCS" (utilizado na execução de projetos, possui um repositório, e pode
+mostrar o hisórico de alterações)
+https://git-scm.com/
+
+4- sqlite browser: é uma ferramenta para criar, editar e fazer o design de arquivos compatíveis com o mesmo
+https://sqlitebrowser.org/
